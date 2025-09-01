@@ -10,8 +10,9 @@ public class StudentController {
 
     public static void main(String[] args) {
         List<Student> students = Arrays.asList(
-                new Student(1L, "Ana", "ana@tecsup.edu"),
-                new Student(2L, "Luis", "luis@tecsup.edu")
+                new Student(1L, "María", "maria@tecsup.edu"),
+                new Student(2L, "Pedro", "pedro@tecsup.edu"),
+                new Student(3L, "Lucía", "lucia@tecsup.edu")
         );
 
         StudentReport.print(students);

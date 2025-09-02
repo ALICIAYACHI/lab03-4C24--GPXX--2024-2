@@ -1,6 +1,7 @@
-Estructura de Datos
-Ingeniería de Software
-Sistemas Operativos
-Base de Datos
-Matemática Discreta
-Estadística y Probabilidades
+Construcción y Pruebas de Software
+Desarrollo de Aplicaciones Empresariales
+Desarrollo de Aplicaciones Web
+Investigación e Innovación Tecnológica
+Programación en Móviles
+Tecnologías Emergentes
+Tutoria 4

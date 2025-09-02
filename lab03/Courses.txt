@@ -1,0 +1,6 @@
+Estructura de Datos
+Ingeniería de Software
+Sistemas Operativos
+Base de Datos
+Matemática Discreta
+Estadística y Probabilidades
